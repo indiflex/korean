@@ -3,8 +3,8 @@
   "version": "0.1.4",
   "description": "korean utility functions",
   "main": "dist/index.js",
-  "types": "dist/index.d.ts",
   "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsup index.ts --format cjs,esm --dts",
     "lint": "tsc",
