@@ -1,4 +1,5 @@
-import { add } from './index';
+// import { add } from './index';
+import { add } from '.';
 
 describe('test - base', () => {
   test('add', () => {
